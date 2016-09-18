@@ -6,3 +6,4 @@
 666666
 update 01
 insert into aaa
+fix bug
