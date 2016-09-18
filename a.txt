@@ -5,3 +5,4 @@
 555555
 666666
 update 01
+insert into aaa
